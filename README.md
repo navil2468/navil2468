@@ -1,16 +1,31 @@
 ### Hi there 👋
-
-<!--
-**navil2468/navil2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### About Myself
+- 📖 I am a renowned programmer at the Bronx High School of Science open to internships
+---
+### GitHub Stats
+<table>
+<thead>
+  <tr>
+    <th>GitHub Stats</th>
+    <th>Languages</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 
+   <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=navil2468&show_icons=true&theme=transparent&count_private=true" 
+      alt="account stats"
+      /> 
+   </td>
+    <td>
+   <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=navil2468&layout=compact&theme=transparent&langs_count=6&hide=jupyter%20notebook" 
+      alt="top languages" />
+   </td>
+  </tr>
+</tbody>
+</table>
