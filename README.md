@@ -1,7 +1,7 @@
-### Hi there 👋
+a### Hi there 👋
 ---
 ### About Myself
-- 📖 I am a renowned programmer at the Bronx High School of Science open to internships
+- 📖 I am a renowned programmer attending Columbia University, graduated from Bronx Science, open to internships.
 - This was made by my friend Isiah (@BlasianPreston)
 ---
 ### GitHub Stats
