@@ -1,4 +1,4 @@
-a### Hi there 👋
+Hi there 👋
 ---
 ### About Myself
 - 📖 I am a renowned programmer attending Columbia University, graduated from Bronx Science, open to internships.
