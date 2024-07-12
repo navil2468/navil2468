@@ -15,11 +15,11 @@ Hi there 👋
 <tbody>
   <tr>
     <td> 
-   <img 
+ <!--  <img 
       align="center" 
       src="https://github-readme-stats.vercel.app/api?username=navil2468&show_icons=true&theme=transparent&count_private=true" 
       alt="account stats"
-      /> 
+      /> -->
    </td>
     <td>
    <img 
