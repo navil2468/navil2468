@@ -5,4 +5,4 @@ Hi there 👋
 - I love learning and creating stuff 📖
 - Feel free to reach out to me at naviltalukdar3@gmail.com or nt2719@columbia.edu
 
-Visit me at naviltalukdar.com
+Visit me at [naviltalukdar.com](https://www.naviltalukdar.com)
